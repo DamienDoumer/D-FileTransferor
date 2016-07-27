@@ -1,0 +1,30 @@
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\bin\x64\Debug\FileTransferor 1.00.exe.config
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\bin\x64\Debug\FileTransferor 1.00.exe
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\bin\x64\Debug\FileTransferor 1.00.pdb
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\bin\x64\Debug\System.Data.SQLite.pdb
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.Properties.Resources.resources
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor 1.00.csproj.GenerateResource.Cache
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor 1.00.exe
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor 1.00.pdb
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor 1.00.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.FileTransferorUI.resources
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.History_View.resources
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.Set_Paths.resources
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.About_App.resources
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.How_to_use_it.resources
+C:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.Change_Sound.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\bin\x64\Debug\FileTransferor 1.00.exe.config
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor 1.00.exe
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor 1.00.pdb
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\bin\x64\Debug\FileTransferor 1.00.exe
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\bin\x64\Debug\FileTransferor 1.00.pdb
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor 1.00.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.About_App.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.Change_Sound.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.History_View.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.How_to_use_it.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.FileTransferorUI.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.Properties.Resources.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor_1._00.Set_Paths.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\my bests\C# bests\FileTransferor 1.00\FileTransferor 1.00\obj\x64\Debug\FileTransferor 1.00.csproj.GenerateResource.Cache

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FileTransferor_1._00.About_App" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAACAAACAAAAA=</HashCode>
+      <FileName>About App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.Change_Sound" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAAAAAAAACAQAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>Change Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.History_View" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAECAAAAAAABCAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>History View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.How_to_use_it" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAACAAAACAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>How to use it.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.FileTransferorUI" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BZAABBAQCCgSIBIiAACGAAACAQCRAQIBAnQOQQAEAAA=</HashCode>
+      <FileName>MainUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.PathManager" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABgAoQAIBAQhiAAAIABAAgADCCAAAAwAgIBAAIAQAI=</HashCode>
+      <FileName>PathManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.Program" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.Set_Paths" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAASEAAACAAACAAABCIMQ7AAAAkHAPAIAAAAA=</HashCode>
+      <FileName>Set Paths.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.SoundPlayerr" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAEBoAAAACAAAAA=</HashCode>
+      <FileName>SoundPlayerr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.TransactionSaver" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIEAAAAIBAAICAAQAAAABAAAAEQIAEBAAABAAgA=</HashCode>
+      <FileName>TransactionSaver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.TransactionViewer" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAQAAAARAAABAAIgAAAAAAAAAA=</HashCode>
+      <FileName>TransactionViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.Transferor" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEIIACAAAAAEAAAAwAIAAAAAAAEEAAABAABAQCAA=</HashCode>
+      <FileName>Transferor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTransferor_1._00.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

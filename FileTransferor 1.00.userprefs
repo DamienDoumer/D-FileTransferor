@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="FileTransferor 1.00\FileTransferor 1.00.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileTransferor 1.00\SoundPlayerr.cs">
+    <Files>
+      <File FileName="FileTransferor 1.00\About App.cs" Line="19" Column="1" />
+      <File FileName="c:\Users\Damien\Desktop\FileTransferor 1.00\FileTransferor 1.00\TransactionSaver.cs" Line="48" Column="1" />
+      <File FileName="FileTransferor 1.00\Set Paths.cs" Line="114" Column="53" />
+      <File FileName="FileTransferor 1.00\SoundPlayerr.cs" Line="24" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
